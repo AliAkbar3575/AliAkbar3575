@@ -8,10 +8,13 @@
 <img align="right" alt="Coding" width="280" height="180" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s">
 
 👨‍💻 About Me
-- 🔭 I’m currently working on **Bacterial Image Processing**
+- 🔭 I’m currently involved in **TWO research project**-
+  1. Bacterial image processing, where we aim to enhance the rapid detection and classification of different bacterial shapes, improving upon traditional detection methods.
+  2. Improving the Quality of Power Supply to Industrial Clusters around Dhaka City by using a variety of statistical parameters.
+
 - 🌱 Learning **PyTorch & Advanced Image Processing Techniques**
 - 📫 How to reach me: **aliakbar357589@gmail.com**
-- ⚡ Fun fact: **I think I'm a funny person! 😆**
+- ⚡ I'm a **dedicated AI researcher**, passionate about **innovation** and committed to my responsibilities. With determination and hard work, I strive to **make meaningful contributions** to the field of artificial intelligence.
 
 ---
 
