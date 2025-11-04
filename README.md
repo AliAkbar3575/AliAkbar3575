@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Akbar</h1>
-<h3 align="center">Aspiring AI Researcher | Machine Learning Enthusiast | Prospective PhD Applicant</h3>
+<h3 align="center">Aspiring AI Researcher | Computer Vision | Prospective PhD Applicant</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aliakbar357589&label=Profile%20views&color=0e75b6&style=flat" alt="aliakbar357589" />
