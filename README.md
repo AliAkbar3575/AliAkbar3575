@@ -10,7 +10,7 @@
 👨‍💻 About Me
 - 🔭 I’m currently involved in **several research projects**-
   1. Deep Learning-based End-to-End Bacterial Segmentation and Detection from Microscopy Images using Vision Transformers (ViTs).
-  2. I'm involved in another project where our objective is to develop a chatbot-like framework for leaf disease analysis using vision language model (VLM), where different questions can be asked based on leaf disease images.
+  2. another project where our objective is to develop a chatbot-like framework for leaf disease analysis using vision language model (VLM), where different questions can be asked based on leaf disease images.
   3. Integrating Gut Microbiome Taxonomic Profiles with Supervised Machine Learning for IBS (Irritable Bowel Syndrome) Diagnosis.
   4. Improving the Quality of Power Supply to Industrial Clusters around Dhaka City by using a variety of statistical parameters.
 
